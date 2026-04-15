@@ -14,5 +14,5 @@ void main()
         printf("%d\n", (unsigned char) elementos[i]);
     }
 
-    printf("Criado por [SEU NOME]");
+    printf("Criado por Thiago Bonfanti");
 }
